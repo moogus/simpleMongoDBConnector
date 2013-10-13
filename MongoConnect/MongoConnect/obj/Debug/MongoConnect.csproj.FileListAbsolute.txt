@@ -1,0 +1,12 @@
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\MongoConnect.dll
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\MongoConnect.pdb
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\MongoDB.Bson.dll
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\MongoDB.Driver.dll
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\StructureMap.dll
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\MongoDB.Bson.xml
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\MongoDB.Driver.xml
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\StructureMap.pdb
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\bin\Debug\StructureMap.xml
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\obj\Debug\MongoConnect.csprojResolveAssemblyReference.cache
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\obj\Debug\MongoConnect.dll
+C:\Git Store\simpleMongoDBConnector\MongoConnect\MongoConnect\obj\Debug\MongoConnect.pdb
